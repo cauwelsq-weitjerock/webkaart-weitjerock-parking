@@ -660,10 +660,12 @@ svg.leaflet-image-layer.leaflet-interactive path {
 		}
 	}
 .leaflet-popup-content img {
-    max-width: 250px;
-    height: auto;
+    max-width: 300px !important;
+	width: 300px !important;
+    height: auto !important;
     display: block;
     margin: 5px auto;
     border-radius: 6px;
 }
+
 

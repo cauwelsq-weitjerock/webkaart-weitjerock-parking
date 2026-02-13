@@ -659,3 +659,11 @@ svg.leaflet-image-layer.leaflet-interactive path {
 		print-color-adjust: exact;
 		}
 	}
+.leaflet-popup-content img {
+    max-width: 250px;
+    height: auto;
+    display: block;
+    margin: 5px auto;
+    border-radius: 6px;
+}
+
